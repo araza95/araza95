@@ -16,10 +16,6 @@
 
 ###
 
-<h6 align="left">💬 Ask me about NestJS, NextJS, and TypeScript<br><br>📫 How to reach me alihaiderizvi.you@gmail.com</h6>
-
-###
-
 <h6 align="left">📍 I'm from Karachi,Pakistan<br><br>🔭 I’m working as a Senior Frontend Engineer at Zenkoders<br><br>📚 I'm currently learning advanced backend development techniques with Nest JS.<br><br>⚡ In my free time, I experiment with new technologies, contribute to open-source projects, and explore the latest trends in web development.<br><br>Also I am planing to learn Rust & Go.</h6>
 
 ###
